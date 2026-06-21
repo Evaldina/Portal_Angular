@@ -1,0 +1,5 @@
+import{Fa as t,Ga as a,La as e,ua as o}from"./chunk-O2IH5ROD.js";var r=class n{static \u0275fac=function(i){return new(i||n)};static \u0275cmp=o({type:n,selectors:[["app-variaveis"]],decls:19,vars:0,consts:[[1,"card"]],template:function(i,m){i&1&&(t(0,"h1"),e(1,"Vari\xE1veis"),a(),t(2,"p"),e(3,` As vari\xE1veis permitem armazenar dados que podem ser utilizados e alterados durante a execu\xE7\xE3o da aplica\xE7\xE3o.
+`),a(),t(4,"h3"),e(5,"Exemplo"),a(),t(6,"pre"),e(7,`let nome = "Evaldina";
+let idade = 25;
+const pais = "Angola";
+`),a(),t(8,"div",0)(9,"h3"),e(10,"Dica"),a(),t(11,"p"),e(12," Utilize "),t(13,"strong"),e(14,"const"),a(),e(15," para valores fixos e "),t(16,"strong"),e(17,"let"),a(),e(18," para valores que podem ser alterados. "),a()())},styles:["h1[_ngcontent-%COMP%]{color:#0f766e}pre[_ngcontent-%COMP%]{background:#fff;padding:15px;border-left:5px solid #14b8a6;border-radius:8px}.card[_ngcontent-%COMP%]{background:#f8f8f8;padding:20px;border-radius:10px;max-width:500px;margin-top:15px}"]})};export{r as Variaveis};
